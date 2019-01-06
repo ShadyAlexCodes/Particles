@@ -20,9 +20,9 @@ The photo below was taken on 1/5/19, and may be inaccurate.
 
 ![alt text](https://i.imgur.com/Fzlve5I.png)
 
-#TODO
+# TODO
 
-##General
+## General
 
 * Reimplementation of background interaction, was taken away with text added.
 
