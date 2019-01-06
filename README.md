@@ -18,6 +18,11 @@ This project was created due to [@mm909](https://github.com/mm909)'s inspiration
 
 The photo below was taken on 1/5/19, and may be inaccurate.
 
-![alt text](https://i.imgur.com/bieLcNY.jpg)
+![alt text](https://i.imgur.com/Fzlve5I.png)
 
+#TODO
+
+##General
+
+* Reimplementation of background interaction, was taken away with text added.
 
